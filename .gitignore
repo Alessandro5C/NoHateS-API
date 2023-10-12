@@ -1,0 +1,6 @@
+__pycache__
+__pycache__/*
+.venv
+.venv/*
+beto_aug_model_task2a_2.pt
+
